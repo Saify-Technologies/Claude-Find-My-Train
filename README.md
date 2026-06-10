@@ -241,6 +241,3 @@ Open an issue or reach out via the Saifs AI support channel.
 
 This connector is built and maintained by **Saifs AI**, focused on building practical MCP connectors that make everyday information accessible through Claude.
 
----
-
-*Data provided by Indian Railways / IRCTC. This connector is not officially affiliated with IRCTC or Indian Railways.*
