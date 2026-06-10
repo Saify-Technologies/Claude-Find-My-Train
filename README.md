@@ -42,9 +42,18 @@ This connector is built on the [Model Context Protocol (MCP)](https://www.anthro
 2. Open **Settings → Connectors** (or the Integrations panel)
 3. Search for **"Find My Train IRCTC"** by Saifs AI
 4. Click **Connect**
-5. Start a new chat and ask anything about Indian trains!
+5. A login screen will appear — sign in using your **Google account** (or other available social login)
+6. Once authenticated, you'll be redirected back to Claude automatically
+7. Start a new chat and ask anything about Indian trains!
 
-No login, no API key, no setup required on your end.
+> **Why do I need to log in?**
+> The social login links your identity to the connector so we can manage access, prevent misuse, and ensure reliable data for every user. We do not store any personal travel data.
+
+### Login Troubleshooting
+
+- **Popup blocked?** Allow popups for `claude.ai` in your browser settings and try again.
+- **Login loop / not redirecting back?** Try disconnecting and reconnecting the connector, or use a different browser.
+- **"Access denied" after login?** Make sure you're signing in with the correct Google account. If the issue persists, contact Saifs AI support.
 
 ---
 
